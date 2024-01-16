@@ -20,7 +20,7 @@ For RHEL based distributions including Fedora, CentOS etc:
 For the rest of distributions such as Arch, Manjaro, Void etc. use the generic installer script:
 
 ```
-~$ tar xvf GlobalProtect_tar-5.1.1.0-17.tgz && sudo ./install
+~$ tar xvf GlobalProtect_tar-5.1.1.0-17.tgz && sudo ./install.sh
 ```
 ## Setup
 Create a new connection and enter your NetID credentials when prompted. You will only run this when setting up the connection to a new portal. After this your credentials and the portal address will be saved for future access:
